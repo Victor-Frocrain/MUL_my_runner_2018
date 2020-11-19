@@ -1,0 +1,13 @@
+Finite runner created with CSFML.
+
+USAGE
+    ./my_runner map.txt
+
+
+OPTIONS
+    -h		print the usage and quit.
+    -s		print the story and quit.
+
+USER INTERACTIONS
+     SPACE_KEY	jump.
+     ESCAPE_KEY	enter/exit pause menu.
